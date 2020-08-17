@@ -1,0 +1,26 @@
+img {
+	display: page
+    float left;
+    width:  300px;
+    height: 350px;
+    object-fit: cover;
+	hover
+    	
+}
+img:hover {
+  transform: scaleX(-1);
+}
+
+.center {
+	 text-align:center
+}
+
+.second {
+	display: inline-block”
+}
+
+body {
+  background-color: #D0D2FF;
+  
+	
+}

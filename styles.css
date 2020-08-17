@@ -1,0 +1,90 @@
+
+  
+  
+
+header {	
+      
+	 font-family: cursive; 
+      background-image: url("images/sanfranciscoend.jpg"); 	
+}
+
+footer {
+	font-family: cursive; 
+      background-image: url("images/sanfranciscoend.jpg"); 
+    color:	Ariel
+}
+
+
+h2 { 
+ text-align: center;
+ color: black
+ 
+}
+
+
+
+
+
+a:link {
+    background-color:#a1ff88;
+    font-size:14px;
+	color: maroon
+}
+a:visited {
+    background-color:#a2ff74;
+    font-size:14px;
+	
+}
+a:hover {
+    background-color:#gg11gg;
+    font-size:16px;
+    background-image:url('cloud.jpg');
+}
+a:active {
+    background-color:#aa45ee; font-size:14px; 
+}
+
+
+
+
+
+
+.size {
+	font-size: 20px;
+}
+
+.center {
+	position: relative;
+	
+    text-align: center;
+	
+}
+
+
+.headcolor {
+	
+	text-align: center;
+	color: purple	
+}
+
+body {
+  background-color: #D0D2FF;
+  font-family: cursive; 
+	
+}
+
+ol {
+text-align: center;
+}
+
+li {
+display: inline-block;
+
+}
+
+
+
+
+	
+
+
